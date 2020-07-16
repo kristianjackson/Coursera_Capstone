@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <pubdate>20190910</pubdate>
+                <title>Maine Boundaries County Lines</title>
+                <onlink>https://gis.maine.gov/arcgis/rest/services/Boundaries/Maine_Boundaries_County/MapServer/0</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>CNTY24L contains state and county boundaries for Maine, mapped at 1:24,000 scale. The dataset has polygon topology and was created in Arc/Info from METWP24 by a select on arcs coded TYPE = state, county, and coastline.</abstract>
+            <purpose>Maine Boundaries County Lines (CNTY24L)</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>boundaries</themekey>
+                <themekey>MaineGeoLibrary</themekey>
+                <themekey>MaineGIS</themekey>
+                <themekey>Maine</themekey>
+                <themekey>Counties</themekey>
+                <themekey>CNTY24L</themekey>
+                <themekey>County</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>Access: Public Use: User assumes risk</useconst>
+        <datacred>Maine GeoLibrary, MaineGIS</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20190910</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
